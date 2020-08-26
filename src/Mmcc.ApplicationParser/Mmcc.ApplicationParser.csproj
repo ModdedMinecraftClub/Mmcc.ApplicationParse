@@ -10,6 +10,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/ModdedMinecraftClub/Mmcc.ApplicationParser</RepositoryUrl>
     <PackageTags>mmcc, parser</PackageTags>
+	<PackageLicenseUrl>https://github.com/ModdedMinecraftClub/Mmcc.ApplicationParser/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
