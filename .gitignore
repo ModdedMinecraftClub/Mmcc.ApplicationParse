@@ -1,0 +1,10 @@
+# Don't include compiled C# binaries
+out/
+bin/
+obj/
+
+# Don't include IDE specific files
+.idea/
+.vs/
+.vscode/
+*.DotSettings
