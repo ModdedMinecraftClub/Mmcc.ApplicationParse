@@ -17,6 +17,20 @@ namespace Mmcc.ApplicationParser
     {
         /// <summary>
         /// Property types supported by the MMCC Application format.
+        ///
+        /// Supported types:
+        /// <see cref="bool"/>
+        /// <see cref="byte"/>
+        /// <see cref="sbyte"/>
+        /// <see cref="char"/>
+        /// <see cref="decimal"/>
+        /// <see cref="double"/>
+        /// <see cref="int"/>
+        /// <see cref="uint"/>
+        /// <see cref="long"/>
+        /// <see cref="ulong"/>
+        /// <see cref="short"/>
+        /// <see cref="ushort"/>
         /// </summary>
         private readonly List<Type> _supportedPropertyTypes = new List<Type>
         {
