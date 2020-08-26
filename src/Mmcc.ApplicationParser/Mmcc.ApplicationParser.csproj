@@ -11,6 +11,7 @@
     <RepositoryUrl>https://github.com/ModdedMinecraftClub/Mmcc.ApplicationParser</RepositoryUrl>
     <PackageTags>mmcc, parser</PackageTags>
 	<PackageLicenseUrl>https://github.com/ModdedMinecraftClub/Mmcc.ApplicationParser/blob/master/LICENSE</PackageLicenseUrl>
+	<Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
